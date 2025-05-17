@@ -7,3 +7,5 @@ S
 #contracts/facilit-verification.clar,6/5/65ac3e7717be01bb464fd427012d8e6c9c570f3e
 P
  contracts/permit-management.clar,d/1/d1c4d63cf2a81cc2a37811eab167ee68ac0a5b24
+H
+contracts/reporting.clar,c/b/cb3f865f5236d2f1405a540b885a7dd2fb4b4adf
